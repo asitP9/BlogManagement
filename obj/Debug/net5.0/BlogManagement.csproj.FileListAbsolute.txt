@@ -1,0 +1,16 @@
+C:\Users\Asit\DotNet Workspace\BlogManagement\bin\Debug\net5.0\BlogManagement.exe
+C:\Users\Asit\DotNet Workspace\BlogManagement\bin\Debug\net5.0\BlogManagement.deps.json
+C:\Users\Asit\DotNet Workspace\BlogManagement\bin\Debug\net5.0\BlogManagement.runtimeconfig.json
+C:\Users\Asit\DotNet Workspace\BlogManagement\bin\Debug\net5.0\BlogManagement.runtimeconfig.dev.json
+C:\Users\Asit\DotNet Workspace\BlogManagement\bin\Debug\net5.0\BlogManagement.dll
+C:\Users\Asit\DotNet Workspace\BlogManagement\bin\Debug\net5.0\ref\BlogManagement.dll
+C:\Users\Asit\DotNet Workspace\BlogManagement\bin\Debug\net5.0\BlogManagement.pdb
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\BlogManagement.csprojAssemblyReference.cache
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\BlogManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\BlogManagement.AssemblyInfoInputs.cache
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\BlogManagement.AssemblyInfo.cs
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\BlogManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\BlogManagement.dll
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\ref\BlogManagement.dll
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\BlogManagement.pdb
+C:\Users\Asit\DotNet Workspace\BlogManagement\obj\Debug\net5.0\BlogManagement.genruntimeconfig.cache
